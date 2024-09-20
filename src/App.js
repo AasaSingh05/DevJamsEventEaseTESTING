@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Home from './components/Home';
 import Login from './components/Login';
 import ClubLogin from './components/ClubLogin';
-import Events from './components/Events';
+import Events from './Events';
 import './App.css';
 
 function App() {
